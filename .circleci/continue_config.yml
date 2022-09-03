@@ -9,7 +9,7 @@ default-context: &default-context
 parameters:
   team:
     type: string
-    default: 'ankit'
+    default: 'lion'
   pipeline-config:
     type: boolean
     default: false
